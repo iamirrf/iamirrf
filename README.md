@@ -1,20 +1,17 @@
-### Welcome to my GitHub space! 🚀
+### About Me
 
-👨‍💻 **Machine Learning & AI Engineer | Business Strategist | Communicator | Photographer | Chess Aficionado**
-
----
-
-As a fervent advocate for the progress of machine learning and AI engineering, my journey is fueled by a **growth mindset** and an unrelenting zest for knowledge. I'm adept at adapting to new technologies and possess a keen aptitude for continuous learning.
-
-The spark that drives my work? It's the intriguing intersection of **business acumen and artificial intelligence**. My educational path reflects this, blending a Computer Science major with a Business Administration minor for a comprehensive grasp of both the technical prowess and strategic acumen required in our digital era.
-
-🐍 When it comes to programming, Python is my muse. I've garnered hands-on expertise with powerhouse libraries like TensorFlow, Scikit-learn, NumPy, and Pandas, to name a few.
-
-Communication is key, and it's a skill I take seriously—hence my minor in Communication. Through personal endeavors and an intentional focus on social skills, I aim to excel in articulating groundbreaking ideas that resonate.
-
-Beyond the bits and bytes, my creative spirit soars through photography, capturing moments and perspectives. And when it's time to strategize, you'll find me contemplating my next move in a game of chess, embracing the cerebral duel it offers.
-
-Let's connect and explore the infinite possibilities at the nexus of technology, strategy, and innovation! 🌟
+🔬 Machine Learning Enthusiast | 💡 Strategic Thinker | 🐍 Python Developer
 
 ---
 
+As a professional navigating the intricate interplay between technology and strategy, my focus lies on the impactful application of **machine learning** and **AI**. I bring to the table a strong computer science background augmented by business acumen, thanks to a minor in Business Administration.
+
+My technical narrative is written in **Python**, where I excel in utilizing libraries like TensorFlow and Scikit-learn to dissect and solve data challenges, constructing intelligent solutions that drive progress.
+
+🔊 Clear and compelling communication is as important to me as the code I write, a skill I've cultivated through academic and extracurricular endeavors.
+
+When not engaged in tech, I find solace and inspiration in **photography** and the strategic depth of **chess**.
+
+This profile is your window into my professional journey and a reflection of my commitment to the advancement of AI.
+
+---
